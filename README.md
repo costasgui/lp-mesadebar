@@ -38,4 +38,4 @@ O layout se adapta a diferentes tamanhos de tela (mobile, tablet e desktop)
 
 ## ✍️ Autor
 
-Desenvolvido de forma amadora por \Guilherme Silva (com uma mãozinha do ChatGpt e Claude] — \[(https://www.linkedin.com/in/guuicostas/)].
+'Desenvolvido' de forma amadora por Guilherme Silva (com uma mãozinha do ChatGpt e Claude] — [(https://www.linkedin.com/in/guuicostas/)].
