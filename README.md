@@ -4,7 +4,7 @@ Este repositório contém o código-fonte da landing page do **Mesa de Bar Podca
 
 ## 🔗 Link da página
 
-[linktr.ee/MesadeBar](https://linktr.ee/MesadeBar)
+[Página hospedada no glith.me](https://mesadebarpodcast.glitch.me/)
 
 ## 📁 Estrutura
 
@@ -22,10 +22,6 @@ Este repositório contém o código-fonte da landing page do **Mesa de Bar Podca
   * **YouTube Widget** integrado.
   * **Parceiros** em link.
   * **Contato** do autor.
-
-## 🖼️ Visualização
-
-[Página hospedada no glith.me](https://mesadebarpodcast.glitch.me/)
 
 ## 🛠️ Tech
 
