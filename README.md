@@ -23,9 +23,9 @@ Este repositório contém o código-fonte da landing page do **Mesa de Bar Podca
   * **Parceiros** em link.
   * **Contato** do autor.
 
-## 🖼️ Pré-visualização
+## 🖼️ Visualização
 
-![Página hospedada no glith.me](https://mesadebarpodcast.glitch.me/)
+[Página hospedada no glith.me](https://mesadebarpodcast.glitch.me/)
 
 ## 🛠️ Tech
 
