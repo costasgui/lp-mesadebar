@@ -12,17 +12,20 @@ Este repositório contém o código-fonte da landing page do **Mesa de Bar Podca
 * Estilização com CSS puro, incluindo responsividade e acessibilidade.
 * Integração com Google Analytics via `gtag.js`.
 * Fontes do Google Fonts e ícones via Font Awesome.
-* Seções:
+  
+* **Seções**:
 
   * **Header** com título e subtítulo.
   * **Intro** com imagem e frase de impacto.
   * **Sobre** o podcast.
   * **Spotify Widget** integrado.
   * **YouTube Widget** integrado.
+  * **Parceiros** em link.
+  * **Contato** do autor.
 
 ## 🖼️ Pré-visualização
 
-![Preview da página hospedada no glith.me](https://mesadebarpodcast.glitch.me/))
+![Página hospedada no glith.me](https://mesadebarpodcast.glitch.me/)
 
 ## 🛠️ Tech
 
@@ -35,9 +38,7 @@ Este repositório contém o código-fonte da landing page do **Mesa de Bar Podca
 
 ## 📱 Responsividade
 
-O layout se adapta a diferentes tamanhos de tela (mobile, tablet e desktop), utilizando `@media queries`.
-
-## 🧪 Como testar localmente
+O layout se adapta a diferentes tamanhos de tela (mobile, tablet e desktop)
 
 ## ✍️ Autor
 
