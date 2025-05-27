@@ -34,15 +34,6 @@
     <meta property="og:url" content="linktr.ee/MesadeBar" />
     <meta property="og:type" content="website" />
 
-    <!-- Twitter Card tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="MESA DE BAR PODCAST" />
-    <meta
-      name="twitter:description"
-      content="Mesa de Bar Podcast: Um podcast para baixar a guarda e abrir a mente. Ouça no Spotify, YouTube e outras plataformas."
-    />
-    <meta name="twitter:image" content="https://via.placeholder.com/1200x630" />
-
     <!-- Fontes Google -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
